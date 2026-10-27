@@ -1,1 +1,1 @@
-rewritten without final newline
+foreign Git edit
